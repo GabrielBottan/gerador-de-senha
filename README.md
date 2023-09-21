@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://projeto-summary-kappa.vercel.app
+https://gerador-de-senha-lac.vercel.app
 
 O projeto de gerador de senhas é uma pequena apliação para treinar Javascript, HTML E CSS. O projeto consiste numa página estilizada que o usuário pode gerar uma senha segura de acordo com a quantidade de caracteres que ele quiser.
 
